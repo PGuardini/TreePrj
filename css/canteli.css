@@ -1,4 +1,36 @@
+@font-face {
+    font-family: 'magnablack_condensed';
+    src: url('../fontes/magna-blackcondensed.woff2') format('woff2'),
+         url('../fontes/magna-blackcondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .mainMenu{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2% !important;
     background: #75604d !important;
-    border-radius: 0px;
+}
+
+.fundo {
+    background: #F2F2F2;
+}
+
+#headerImage {
+    float: left;
+}
+
+.tituloSite {
+    width: 300% !important;
+    float: left;
+    font-family: 'magnablack_condensed'!important;
+}
+
+#cul {
+    float: left
+}
+
+#trees {
+    float: left;
 }
