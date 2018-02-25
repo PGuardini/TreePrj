@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'magnablack_condensed';
+    src: url('../fontes/magna-blackcondensed.woff2') format('woff2'),
+         url('../fontes/magna-blackcondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+footer{
+    font-family: roboto;
+    background: #75604d;
+    color: #fff;
+    text-align: center;
+    padding: 2%;
+}
