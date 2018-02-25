@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: 'magnablack_condensed';
     src: url('../fontes/magna-blackcondensed.woff2') format('woff2'),
@@ -8,7 +10,7 @@
 }
 
 .mainMenu{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'simplificasimplifica';
     margin-top: 2% !important;
     background: #75604d !important;
 }
@@ -17,20 +19,46 @@
     background: #F2F2F2;
 }
 
-#headerImage {
-    float: left;
+#logo {
+    margin-top: 2%;
 }
 
-.tituloSite {
-    width: 300% !important;
-    float: left;
-    font-family: 'magnablack_condensed'!important;
+.tituloPag {
+    color: #514b4b !important;
+    margin-bottom: 4%;
 }
 
-#cul {
-    float: left
+.imageCatalogo {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
 }
 
-#trees {
-    float: left;
+.middleCatalogo {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerCatalogo:hover .imageCatalogo {
+  opacity: 0.3;
+}
+
+.containerCatalogo:hover .middleCatalogo {
+  opacity: 1;
+}
+
+.textCatalogo {
+  background-color: #99c9cc;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
 }
