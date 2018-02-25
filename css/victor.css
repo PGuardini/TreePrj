@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'magnablack_condensed';
+    src: url('../fontes/magna-blackcondensed.woff2') format('woff2'),
+         url('../fontes/magna-blackcondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+footer{
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: #75604d !important;
+    color: #fff;
+    text-align: center;
+    padding: 2%;
+    bottom:0;
+}
+#redeSociais{
+    width: 20%;
+    padding: 1%;
+}
+#copyrigth{
+    font-size: 115%;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    background: #75604d !important;
+    border: none !important;
+    box-shadow: none !important;
+}
