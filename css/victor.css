@@ -15,11 +15,10 @@ footer{
     bottom:0;
 }
 #redeSociais{
-    width: 20%;
-    padding: 1%;
+    width: 10%;
+    padding: 1px;
 }
 #copyrigth{
-    font-size: 115%;
     font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
     background: #75604d !important;
     border: none !important;
