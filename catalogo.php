@@ -1,14 +1,6 @@
-<php 
-
+<?php
+    include 'html/cabecalho.html';
 ?>
-
-<html>
-<head>
-    <link rel="stylesheet" href="css/semantic/semantic.min.css">
-    <link rel="stylesheet" href="css/canteli.css">
-    <title>CulTrees</title>
-</head>
-<body>
     <h2 class="ui horizontal divider header tituloPag">
         Catálogo
     </h2>
@@ -124,5 +116,6 @@
 
 
     </div>
-</body>
-</html>
+<?php
+    include 'html/rodape.html';
+?>
