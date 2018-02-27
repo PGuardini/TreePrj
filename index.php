@@ -15,22 +15,22 @@
     </div>
 
     
-    <div class="ui floated left segment" id="colorOne">
+    <div class="ui floated left segment colorOne">
         <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui right floated segment" id="colorTwo">
+    <div class="ui right floated segment colorTwo">
     <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui floated left segment" id="colorThree">
+    <div class="ui floated left segment colorOne">
         <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui right floated segment" id="colorFour">
+    <div class="ui right floated segment colorTwo">
     <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>

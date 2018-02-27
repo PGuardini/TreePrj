@@ -35,15 +35,9 @@ div#slider figure {
 .clear{
     clear: both;
 }
-#colorOne{
-    background: linear-gradient(#81b6b9,#c6f6f8);
+.colorOne{
+    background:  #81b6b9 !important;
 }
-#colorTwo{
-    background: linear-gradient(#81b6b9,#c6f6f8);
-}
-#colorThree{
-    background: linear-gradient(#81b6b9,#c6f6f8);
-}
-#colorFour{
-    background: linear-gradient(#81b6b9,#c6f6f8);
+.colorTwo{
+    background: #1bac57 !important;
 }
