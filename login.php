@@ -2,7 +2,7 @@
     include "html/cabecalho.html";
 ?>
 <div class="ui grid">
-    <div id="margemCincoPorcento" class="three column row">
+    <div class="margemCincoPorcento three column row">
         <div class="column"></div>
         <form class="column ui form">
             <div class="field">
