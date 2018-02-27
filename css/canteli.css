@@ -26,7 +26,10 @@
 
 .tituloPag {
     color: #514b4b !important;
-    margin-bottom: 4%;
+}
+
+.espacadorTitulo {
+  margin-bottom: 3%;
 }
 
 .imageCatalogo {

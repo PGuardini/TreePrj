@@ -1,9 +1,12 @@
 <?php
     include 'html/cabecalho.html';
 ?>
+
+    <div class="espacadorMenu"></div>
     <h2 class="ui horizontal divider header tituloPag">
         Catálogo
     </h2>
+    <div class="espacadorTitulo"></div>
 
     <div class="ui stackable centered four column grid">
 
@@ -12,7 +15,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #1</div>
                     </div>
                 </a>
             </div>
@@ -23,7 +26,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #2</div>
                     </div>
                 </a>
             </div>
@@ -34,7 +37,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #3</div>
                     </div>
                 </a>
             </div>
@@ -49,7 +52,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #4</div>
                     </div>
                 </a>
             </div>
@@ -60,7 +63,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #5</div>
                     </div>
                 </a>
             </div>
@@ -71,7 +74,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #6</div>
                     </div>
                 </a>
             </div>
@@ -86,7 +89,7 @@
                     <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                     <a href="">
                         <div class="middleCatalogo">
-                            <div class="textCatalogo">John Doe</div>
+                            <div class="textCatalogo">Árvore #7</div>
                         </div>
                     </a>
                 </div>
@@ -97,7 +100,7 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #8</div>
                     </div>
                 </a>
             </div>
@@ -108,14 +111,15 @@
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">John Doe</div>
+                        <div class="textCatalogo">Árvore #9</div>
                     </div>
                 </a>
             </div>
         </div>
 
-
     </div>
+
+    <div class="espacadorRodape"></div> 
 <?php
     include 'html/rodape.html';
 ?>
