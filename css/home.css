@@ -13,6 +13,11 @@
 body {
     margin: 0;
 } 
+
+.espacadorMenu {
+    margin-bottom: 5%;
+}
+
 div#slider {
     overflow: hidden;
 }
@@ -36,8 +41,15 @@ div#slider figure {
     clear: both;
 }
 .colorOne{
-    background:  #81b6b9 !important;
+    background:  #99c9cc !important;
+    color: #F1F1F1;
 }
-.colorTwo{
-    background: #1bac57 !important;
+
+.colorTwo {
+    background:  #c8d45b !important;
+    color: #F1F1F1;
+}
+
+.espacadorRodape {
+    margin-bottom: 5%;
 }

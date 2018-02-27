@@ -14,27 +14,31 @@
         </figure>
     </div>
 
+    <div class="espacadorMenu"></div> 
     
-    <div class="ui floated left segment colorOne">
+    <div class="ui stacked floated left segment colorOne">
         <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui right floated segment colorTwo">
+    <div class="ui stacked right floated segment colorTwo">
     <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui floated left segment colorOne">
+    <div class="ui stacked floated left segment colorOne">
         <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
-    <div class="ui right floated segment colorTwo">
+    <div class="ui stacked right floated segment colorTwo">
     <h1>Lorem Ipsum</h1>
         <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
     </div>
     <div class='clear'></div>
+
+    <div class="espacadorRodape"></div> 
+
 <?php
 
     include "html/rodape.html";
