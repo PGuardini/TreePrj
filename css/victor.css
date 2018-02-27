@@ -25,3 +25,8 @@ footer{
     border: none !important;
     box-shadow: none !important;
 }
+
+#margemCincoPorcento{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
