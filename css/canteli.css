@@ -28,7 +28,7 @@
 }
 
 .espacadorTitulo {
-  margin-bottom: 3%;
+  margin-bottom: 5%;
 }
 
 .imageCatalogo {
@@ -70,6 +70,14 @@
   background-color: #c8d45b !important;
 }
 
+.botaoArvore {
+  color: #686e31;
+}
+
+.botaoArvore:hover {
+  color: #4a4e23;
+}
+
 div.imagemDetalha {
 	margin-left: 5% !important;
 }
@@ -78,9 +86,12 @@ img.imagemDetalha {
 	margin: 0%;
 }
 
+.botaoEnviar {
+  background-color: #99c9cc !important;
+}
 
 .imagemUsuario {
-	height: 4% !important;
+	height: 4.5% !important;
 }
 
 .espacoColunas {

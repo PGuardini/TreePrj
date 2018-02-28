@@ -32,13 +32,16 @@
             </div>
         </div>
 
-         <div class="column"></div>
+        <div class="column"></div>
 	</div>
 
 	<div class="divisorDetalha"></div>
 
     <div class="ui sixteen column grid">
-        <div class="right floated six wide column">
+        
+        <div class="column"></div>
+
+        <div class="six wide column">
             <div class="ui styled fluid accordion">
                 <div class="title active">
                     <i class="dropdown icon"></i>
@@ -46,6 +49,7 @@
                 </div>
                 <div class="content active">
                     <p class="transition visible" style="display: block !important;">Ipê tem 100 espécies e é a árvore ornamental mais plantada no Brasil. Já até propuseram que o ipê seja a flor nacional, sendo que o pau-brasil é a árvore nacional. O projeto que trata do assunto se arrasta há décadas, em Brasília. O ipê já flor símbolo nacional em El Salvador, Equador, Venezuela e Paraguai. Ele tinge a paisagem do México até a Patagônia. Ao todo, são cem espécies esparramadas pelas Américas.</p>
+                    <p class="transition visible" style="display: block !important;">Assim como os outros ipês, se desenvolve bem em local ensolarado. É pouco exigente quanto à fertilidade da terra, mas não aprecia solo pesado, que acumule muita água. Torna-se muito resistente à seca depois que está bem estabelecido, portanto, irrigue bem no primeiro ano de implantação.  </p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
@@ -64,34 +68,31 @@
                 </div>
             </div>
         </div>
-    </div>
 
-    <!--
-
-	 <div class="column">
-	    	<div class="ui pilled segment">
+        <div class="eight wide column">
+	    	<div class="ui segment">
 			    <div class="ui comments">
 				  <div class="comment">
 				    <a class="avatar imagemUsuario">
 				      <img src="imagens/detalhaArvore/avatar.jpg">
 				    </a>
 				    <div class="content">
-				      <a class="author">Steve Jobes</a>
+				      <a class="author">Antônio</a>
 				      <div class="metadata">
-				        <div class="date">2 days ago</div>
+				        <div class="date">2 dias atrás</div>
 				      </div>
 				      <div class="text">
-				        Revolutionary!
+				        Amo esta árvore! 
 				      </div>
 				      <div class="actions">
-				        <a class="reply active">Reply</a>
+				        <a class="reply active">Responder</a>
 				      </div>
 				      <form class="ui reply form">
 				        <div class="field">
 				          <textarea></textarea>
 				        </div>
-				        <div class="ui primary submit labeled icon button">
-				          <i class="icon edit"></i> Add Reply
+				        <div class="ui primary submit labeled icon button botaoEnviar">
+				          <i class="icon edit"></i> Adicionar Resposta
 				        </div>
 				      </form>
 				    </div>
@@ -100,7 +101,12 @@
 			</div>
 		</div>
 
-    -->
+        <div class="column"></div>
+
+    </div>
+
+
+
 
     <div class="espacadorRodape"></div> 
 

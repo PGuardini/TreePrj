@@ -123,11 +123,7 @@
          <div class="column"></div>
         <button class="ui large center aligned button botaoInserir">
             <i class="leaf icon"></i>
-<<<<<<< HEAD
-            <a href="cadastro.php">Adicionar Árvore</a>
-=======
-            <a href="cadastroArvore.php">Adicionar Árvore</a>
->>>>>>> 72d48861f6ebbeeaba82020daec23c2e6a972113
+            <a class="botaoArvore" href="cadastroArvore.php">Adicionar Árvore</a>
         </button>
     </div>
 
