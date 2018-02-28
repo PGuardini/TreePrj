@@ -119,7 +119,16 @@
 
     </div>
 
+    <div class="ui one column centered grid">
+         <div class="column"></div>
+        <button class="ui large center aligned button botaoInserir">
+            <i class="leaf icon"></i>
+            Adicionar Árvore
+        </button>
+    </div>
+
     <div class="espacadorRodape"></div> 
+    
 <?php
     include 'html/rodape.html';
 ?>
