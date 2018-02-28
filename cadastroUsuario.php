@@ -11,7 +11,7 @@
         </div>
         <div class="field">
             <label>Nome de Usuário</label>
-            <input type="text" name="nome-de-usuario" placeholder="nome de usuário">
+            <input type="text" name="nome-de-usuario" placeholder="Nome de Usuário">
         </div>
         <div class="field">
             <label>E-mail</label>
@@ -37,7 +37,7 @@
             <label>Eu aceito os termos e as condições</label>
             </div>
         </div>
-        <button class="ui green button" type="submit">Submit</button>
+        <button class="ui green button" type="submit">Cadastrar</button>
         </form>
     </div>
 </div>
