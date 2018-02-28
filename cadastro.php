@@ -2,7 +2,7 @@
     include "html/cabecalho.html";
 ?>
 
-<div id="margemCincoPorcento" class='ui form'>
+<div class='margemCincoPorcento ui form'>
     <div class="three fields">
         <div class="field"></div>
         <div class="field">
@@ -58,7 +58,7 @@
         <div class='field'></div>
         <div class='field'></div>
         <div class='field'>
-            <button class="ui button" type="submit">Enviar</button>
+            <button class="ui green button" type="submit">Enviar</button>
         </div>
     </div>
 </div>
