@@ -10,21 +10,34 @@
 
     <div class="espacadorTitulo"></div>
 
-    <div class="ui stackable left floated three column grid">
-        <div class="column">
-            <div class="ui piled segment">
-                <figure class="ui big image effect-sadie">
-                    <img src="imagens/detalhaArvore/ipe.jpg" alt="img02"/>
-                    <figcaption>
-                        <h2>Holy <span>Sadie</span></h2>
-                        <p>Sadie never took her eyes off me. <br>She had a dark soul.</p>
-                    </figcaption>			
-                </figure>
+    <div class="ui stackable sixteen column grid espacoColunas">
+        <div class="column"></div>
+
+        <div class="five wide column">
+        	<div class="ui piled segment imagemDetalha">
+                <img class="ui huge image imagemDetalha" src="imagens/detalhaArvore/ipe.jpg"/>	
             </div>
         </div>
-    </div>
 
-    <div class="ui grid">
+        <div class="column"></div>
+
+         <div class="eight wide column">
+        	 <div class="ui center aligned piled segment">
+                  <h2 class="ui center aligned header tituloSegmento">História</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum auctor arcu a mauris fringilla, eu aliquam orci dignissim. Aenean semper orci in tellus ultricies interdum. Maecenas eget risus eu lorem fermentum eleifend bibendum in nisi. Aliquam cursus nisl et blandit dapibus. Nulla nec sagittis eros. Vivamus viverra elementum nisi vitae aliquet. Mauris eu cursus massa, quis imperdiet ante. Fusce in nunc libero. In interdum cursus imperdiet. Nulla facilisi. Maecenas interdum lectus massa, sed commodo ligula ultrices sit amet. Sed fringilla molestie elit, quis finibus quam blandit quis.</p>
+
+                  <p>Nullam ullamcorper sapien et libero consequat dapibus. In mollis magna vel ligula aliquam, id sollicitudin eros mattis. Pellentesque blandit nibh a quam efficitur, eu molestie turpis hendrerit. Fusce ut enim est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed venenatis purus lacus, nec malesuada urna finibus vestibulum. Curabitur in nisl eu ex feugiat condimentum ac et purus. Duis vulputate tortor in nisl pharetra, id porta ligula facilisis. Ut tincidunt sapien sit amet elementum consectetur. Duis ac augue ut magna iaculis gravida at vel erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; </p>
+
+				<p>Morbi et leo diam. Integer iaculis elementum tincidunt. Nulla quis purus eu leo hendrerit venenatis sed quis ex. Sed nisi arcu, fringilla vel enim scelerisque, auctor venenatis velit. Vivamus at tincidunt nulla. Aenean varius eu velit eu tincidunt. Etiam auctor risus sit amet convallis commodo. In tempus euismod tincidunt. Donec ullamcorper massa imperdiet laoreet placerat. Sed porttitor orci congue, vulputate lectus in, sollicitudin arcu.</p>
+            </div>
+        </div>
+
+         <div class="column"></div>
+	</div>
+
+	<div class="divisorDetalha"></div>
+
+    <div class="ui sixteen column grid">
         <div class="right floated six wide column">
             <div class="ui styled fluid accordion">
                 <div class="title active">
@@ -52,6 +65,42 @@
             </div>
         </div>
     </div>
+
+    <!--
+
+	 <div class="column">
+	    	<div class="ui pilled segment">
+			    <div class="ui comments">
+				  <div class="comment">
+				    <a class="avatar imagemUsuario">
+				      <img src="imagens/detalhaArvore/avatar.jpg">
+				    </a>
+				    <div class="content">
+				      <a class="author">Steve Jobes</a>
+				      <div class="metadata">
+				        <div class="date">2 days ago</div>
+				      </div>
+				      <div class="text">
+				        Revolutionary!
+				      </div>
+				      <div class="actions">
+				        <a class="reply active">Reply</a>
+				      </div>
+				      <form class="ui reply form">
+				        <div class="field">
+				          <textarea></textarea>
+				        </div>
+				        <div class="ui primary submit labeled icon button">
+				          <i class="icon edit"></i> Add Reply
+				        </div>
+				      </form>
+				    </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+
+    -->
 
     <div class="espacadorRodape"></div> 
 

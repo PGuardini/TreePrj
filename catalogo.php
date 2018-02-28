@@ -13,7 +13,7 @@
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
-                <a href="">
+                <a href="detalhaArvore.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">Árvore #1</div>
                     </div>
@@ -123,7 +123,7 @@
          <div class="column"></div>
         <button class="ui large center aligned button botaoInserir">
             <i class="leaf icon"></i>
-            Adicionar Árvore
+            <a href="cadastro.php">Adicionar Árvore</a>
         </button>
     </div>
 
