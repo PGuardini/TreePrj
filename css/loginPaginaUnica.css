@@ -18,3 +18,16 @@ body > .grid {
     background-image: linear-gradient(to right, #99c9cc, #c8d45b);
 
 }
+#botaoVoltar{
+    background: #75604d;
+    color: #fff;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+a{
+    color: #fff;
+}
+a:hover{
+    color: #f2f4f2;
+}
