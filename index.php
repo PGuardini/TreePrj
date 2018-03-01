@@ -6,7 +6,7 @@
 
     <div id="slider">
         <figure>
-            <img src="imagens/forest.jpg" class='img' alt>
+            <img src="imagens/slide2.jpg" class='img' alt>
             <img src="imagens/jungle.jpg" class='img' alt>
             <img src="imagens/nature.jpg" class='img' alt>
             <img src="imagens/valley.jpg" class='img' alt>
@@ -14,30 +14,134 @@
         </figure>
     </div>
 
-    <div class="espacadorMenu"></div> 
-    
-    <div class="ui stacked floated left segment colorOne">
-        <h1>Lorem Ipsum</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
+ 	
+        <div class="espacadorMenu"></div>
+    <h2 class="ui horizontal divider header tituloPag">
+        Catálogo
+    </h2>
+    <div class="espacadorTitulo"></div>
+
+    <div class="ui stackable centered four column grid">
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="detalhaArvore.php">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #1</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #2</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #3</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
     </div>
-    <div class='clear'></div>
-    <div class="ui stacked right floated segment colorTwo">
-    <h1>Lorem Ipsum</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
+
+    <div class="ui stackable centered four column grid">
+
+         <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #4</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #5</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #6</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
     </div>
-    <div class='clear'></div>
-    <div class="ui stacked floated left segment colorOne">
-        <h1>Lorem Ipsum</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
+
+    <div class="ui stackable centered four column grid">
+       
+        <div class="column">
+                <div class="ui piled segment containerCatalogo">
+                    <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                    <a href="">
+                        <div class="middleCatalogo">
+                            <div class="textCatalogo">Árvore #7</div>
+                        </div>
+                    </a>
+                </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #8</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <a href="">
+                    <div class="middleCatalogo">
+                        <div class="textCatalogo">Árvore #9</div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
     </div>
-    <div class='clear'></div>
-    <div class="ui stacked right floated segment colorTwo">
-    <h1>Lorem Ipsum</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis ameno. </h3>
+
+    <div class="ui one column centered grid">
+         <div class="column"></div>
+        <button class="ui large center aligned button botaoInserir">
+            <i class="leaf icon"></i>
+            <a class="botaoArvore" href="cadastroArvore.php">Adicionar Árvore</a>
+        </button>
     </div>
-    <div class='clear'></div>
 
     <div class="espacadorRodape"></div> 
+ 	
 
 <?php
 

@@ -24,11 +24,30 @@
 }
 
 .tituloPag {
-    color: #514b4b !important;
+    color: #514b4b;
 }
 
 .espacadorTitulo {
   margin-bottom: 5%;
+}
+
+#perigo {
+  margin-bottom: 12%;
+}
+
+#problema {
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+
+#amazonica {
+  margin-top: 20%;
+}
+
+#trabalho {
+  margin-top: 23%;
+  margin-bottom: 7%;
+
 }
 
 .imageCatalogo {
@@ -91,7 +110,7 @@ img.imagemDetalha {
 }
 
 .imagemUsuario {
-	height: 4.5% !important;
+	height: 40px !important;
 }
 
 .espacoColunas {

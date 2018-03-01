@@ -13,13 +13,6 @@
     <div class="ui stackable sixteen column grid espacoColunas">
         <div class="column"></div>
 
-        <div class="five wide column">
-        	<div class="ui piled segment imagemDetalha">
-                <img class="ui huge image imagemDetalha" src="imagens/detalhaArvore/ipe.jpg"/>	
-            </div>
-        </div>
-
-        <div class="column"></div>
 
          <div class="eight wide column">
         	 <div class="ui center aligned piled segment">
@@ -33,6 +26,15 @@
         </div>
 
         <div class="column"></div>
+
+         <div class="five wide column">
+            <div class="ui piled segment imagemDetalha">
+                <img class="ui huge image imagemDetalha" src="imagens/detalhaArvore/ipe.jpg"/>  
+            </div>
+        </div>
+
+        <div class="column"></div>
+        
 	</div>
 
 	<div class="divisorDetalha"></div>

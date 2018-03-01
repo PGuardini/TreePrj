@@ -33,34 +33,43 @@
 
 <div class="ui divider"></div>
 
-    <div class="ui container">
-        <div class="ui piled left floated segment">
-            <h1> Lorem Ipsum</h1>
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae reiciendis</h4>
+           <div class="espacadorMenu"></div> 
+
+    <div class="ui equal width grid">
+        
+        <div class="column">
+            <div class="ui stacked floated left segment colorOne" id="perigo">
+                <h1>Em Perigo</h1>
+                <h3>Segundo levantamentos realizados pela Organização das Nações Unidas (ONU), atualmente são desmatados quase sete milhões de hectares por ano. Isso significa a perda não tão somente de vegetações, mas também de várias espécies animais, pois o seu habitat encontra-se cada vez mais diminuto. Com isso, o equilíbrio ecológico pode tornar-se ameaçado.</h3>
+            </div>
+
+            <div class='clear'></div>
+
+            <div class="ui stacked left floated segment colorTwo" id="problema">
+            <h1>Problema Brasileiro</h1>
+                <h3>No Brasil, vários domínios naturais foram muito devastados. O primeiro a sofrer com esse processo foi a Mata Atlântica, que hoje conta com cerca de 7% de sua área original. Os Pampas e a Mata de Araucária também passaram por graves processos de desmatamento, o que também vem ocorrendo no bioma Cerrado, esse último profundamente devastado durante a segunda metade do século XX. </h3>
+            </div>
+
         </div>
 
-        <div class="ui piled right floated segment">
-            <h1> Lorem Ipsum</h1>
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae reiciendis</h4>
-        </div>
+        <div class="column">
+            <div class="ui stacked right floated segment colortwo" id="amazonica">
+                <h1>Floresta Amazônica</h1>
+                <h3>Um relatório divulgado pela WWF (ONG dedicada ao meio ambiente) no ano de 2000, apontou que o desmatamento na Amazônia já atinge 13% da cobertura original. Uma pesquisa da revista Science (publicada em julho de 2012) alerta que até 2050, poderá ocorrer a extinção de cerca de 80% das espécies animais (anfíbios, mamíferos e aves) em áreas que sofreram desmatamento. </h3>
+            </div>
 
+            <div class='clear'></div>
 
-        <div class="ui piled left floated segment">
-            <h1> Lorem Ipsum</h1>
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae reiciendis</h4>
-        </div>
-
-        <div class="ui piled right floated segment">
-            <h1> Lorem Ipsum</h1>
-            <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae reiciendis</h4>
-        </div>
-
-        <div class="ui basic modal">
-            <div class="image content">
-                <img class="ui massive image imgSobre" src="imagens/forest.jpg">
+            <div class="ui stacked right floated segment colorOne" id="trabalho">
+            <h1>Trabalho com resultados </h1>
+                <h3>O desmatamento na Amazônia Legal caiu 21% em um ano, interrompendo as sucessivas altas verificadas nos últimos cinco anos, apontam dados do Sistema de Alerta de Desmatamento (SAD) do Instituto do Homem e Meio Ambiente da Amazônia (Imazon).</h3>
             </div>
         </div>
-        <div class="clear"></div>
+
+    </div>
+    <div class='clear'></div>
+
+    <div class="espacadorRodape"></div> 
     </div>        
 <?php
     include 'html/rodape.html';
