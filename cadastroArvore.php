@@ -1,73 +1,94 @@
-<?php
-    include "html/cabecalho.html";
-?>
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="css/semantic/semantic.css">
+  <link rel="stylesheet" href="css/victor.css">
+  <link rel="stylesheet" href="css/loginPaginaUnica.css" >
+  <link rel="shortcut icon" type="image/png" href="imagens/favicon.png"/>
+  <!-- Site Properties -->
+  <title>Cadastro Árvore</title>
 
-<div class='margemCincoPorcento ui form'>
-    <div class="three fields">
-        <div class="field"></div>
+
+
+
+</head>
+<body id="fundoLoginU">
+
+    <button id="botaoVoltar" class="linkum ui button">
+        <a href="index.php"><i class="arrow left icon"></i>Voltar</a>
+    </button>
+
+<div id="opacidade" class="ui middle aligned center aligned grid">
+  <div class="column">
+    <h2 class="ui teal image header">
+
+      <div id="letraLoginU" class=" content">
+      <i class="tree icon"></i>
+        Cadastro Árvore
+      </div>
+    </h2>
+    <form class="ui large form">
+      <div class="ui stacked segment">
         <div class="field">
-            <label>Nome Popular</label>
-            <input placeholder="Nome Popular" type="text">
+          <div class="ui left icon input">
+            <i class="leaf icon"></i>
+            <input type="text" name="email" placeholder="Nome Popular">
+          </div>
         </div>
-    </div>
-    <div class="three fields">
-        <div class="field"></div>
         <div class="field">
-            <label>Nome Científico</label>
-            <input placeholder="Nome Científico" type="text">
+          <div class="ui left icon input">
+            <i class="tree icon"></i>
+            <input type="name" name="nameC" placeholder="Nome Científico">
+          </div>
         </div>
-    </div>   
-    <div class="three fields">
-        <div class="field"></div>
         <div class="field">
-            <label>Idade</label>
-            <input placeholder="Idade" type="number" min="1" max="500">
+          <div class="ui left icon input">
+            <i class="sort numeric down icon"></i>
+            <input type="number" name="idade" min="0" max="9500" placeholder="Idade">
+          </div>
         </div>
-    </div>
-    <div class="three fields">
-        <div class="field"></div>
         <div class="field">
-            <label>Circunferencia</label>
-            <input placeholder="Circunferencia" type="number" min="1">
+          <div class="ui left icon input">
+            <i class="circle notch icon"></i>
+            <input type="number" name="circu" min="0" max="60" placeholder="Circunferência">
+          </div>
         </div>
-    </div>
-    <div class="three fields">
-        <div class="field"></div>
         <div class="field">
-            <label>Espécie</label>
-            <input placeholder="Espécie" type="text">
+          <div class="ui left icon input">
+            <i class="joomla icon"></i>
+            <input type="number" name="circu" min="0" max="60" placeholder="Espécie">
+          </div>
         </div>
-    </div>     
-    <div class="three fields">
-        <div class="field"></div>
         <div class="field">
-            <label>Bioma</label>
-            <input placeholder="Bioma" type="text">
+          <div class="ui left icon input">
+            <i class="crosshairs icon"></i>
+            <input type="number" name="circu" min="0" max="60" placeholder="Bioma">
+          </div>
         </div>
-    </div>
-    <div class="three fields">
-        <div class="field"></div>
+
         <div class="field">
-            <label>Origem</label>
-            <input placeholder="Origem" type="text">
-        </div>
-    </div>
-    <div class="ui one column centered grid">
-        <div class="column"></div>
-            <label for="file" class="ui icon button large">
-                <i class="file icon"></i>
-                Foto da Árvore
-            </label>
-            <input type="file" id="file" style="display:none">
-    </div>
-    <div class="ui one column centered grid">
-        <div class="column"></div>
-            <button class="ui green button center aligned" type="submit">Adicionar Árvore</button>
-    </div>
+        <div class="ui button fluid teal">
+            <label for="file" class="ui icon">
+                  <i class="file image icon"></i>
+                   Foto da Árvore
+                </label>
+                <input type="file" id="file" style="display:none">
+            </div> 
+        <div>
+        <div class="ui divider"></div> 
+        <div id="botaoLoginU" class=" ui fluid large teal submit button">Cadastrar Árvore</div>
+      </div>
+
+      <div class="ui error message"></div>
+
+    </form>
+
 </div>
 
+</body>
 
-
-<?php
-    include "html/rodape.html";
-?>
+</html>
