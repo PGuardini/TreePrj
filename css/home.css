@@ -38,7 +38,7 @@ div#slider figure {
     height: 400px;
 }
 .clear{
-    clear: both;
+    clear: both !important;
 }
 .colorOne{
     background:  #99c9cc !important;
@@ -52,4 +52,7 @@ div#slider figure {
 
 .espacadorRodape {
     margin-bottom: 5%;
+}
+.imgSobre{
+    height: 80% !important;
 }
