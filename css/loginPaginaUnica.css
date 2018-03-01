@@ -26,12 +26,15 @@ body > .grid {
     margin-left: 1%;
 }
 a{
-    color: rgba(117, 184, 29, 0.863);
+    color: #39940C;
     
 }
 a:hover{
     color: #c8d45b;
     text-decoration: none;
+}
+#corBotao{
+    color: #fff;
 }
 /* a.linkum:link {
     color: #fff !important;

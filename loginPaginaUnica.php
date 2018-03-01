@@ -18,7 +18,7 @@
 </head>
 <body id="fundoLoginU">
 
-<button id="botaoVoltar" class="linkum ui button"><a href="index.php"><i class="arrow left icon"></i>Voltar</a></button>
+<button id="botaoVoltar" class="linkum ui button"><a id="corBotao" href="index.php"><i class="arrow left icon"></i>Voltar</a></button>
 
 <div id="opacidade" class="ui middle aligned center aligned grid">
   <div class="column">
