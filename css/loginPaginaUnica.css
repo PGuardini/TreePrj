@@ -19,15 +19,23 @@ body > .grid {
 
 }
 #botaoVoltar{
+    width: 8%;
     background: #75604d;
     color: #fff;
     margin-top: 1%;
     margin-left: 1%;
 }
-
 a{
-    color: #fff;
+    color: rgba(117, 184, 29, 0.863);
+    
 }
 a:hover{
-    color: #f2f4f2;
+    color: #c8d45b;
+    text-decoration: none;
 }
+/* a.linkum:link {
+    color: #fff !important;
+}
+a:hover {
+    color: #f2f4f2;
+} */

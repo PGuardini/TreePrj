@@ -18,7 +18,7 @@
 </head>
 <body id="fundoLoginU">
 
-<button id="botaoVoltar" class="ui button"><a href="index.php"><i class="arrow left icon"></i>Voltar</a></button>
+<button id="botaoVoltar" class="linkum ui button"><a href="index.php"><i class="arrow left icon"></i>Voltar</a></button>
 
 <div id="opacidade" class="ui middle aligned center aligned grid">
   <div class="column">
@@ -43,7 +43,7 @@
           </div>
         </div>
         <div id="botaoLoginU" class=" ui fluid large teal submit button">Login</div>
-        <a href="#">Esqueceu a senha?</a>
+        <a class="linkPadrao" href="#">Esqueceu a senha?</a>
       </div>
 
       <div class="ui error message"></div>
@@ -51,7 +51,7 @@
     </form>
 
     <div class="ui message">
-      Novo por aqui? <a href="#">Cadastre-se</a>
+      Novo por aqui? <a class="linkPadrao" href="#">Cadastre-se</a>
     </div>
   </div>
 </div>
