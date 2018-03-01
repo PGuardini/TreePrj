@@ -52,16 +52,6 @@
             <input placeholder="Origem" type="text">
         </div>
     </div>
-<<<<<<< HEAD:cadastro.php
-    <div class="nine fields">
-        <div class='field'></div>
-        <div class='field'></div>
-        <div class='field'></div>
-        <div class='field'></div>
-        <div class='field'>
-            <button class="ui green button" type="submit">Enviar</button>
-        </div>
-=======
     <div class="ui one column centered grid">
         <div class="column"></div>
             <label for="file" class="ui icon button large">
@@ -73,7 +63,6 @@
     <div class="ui one column centered grid">
         <div class="column"></div>
             <button class="ui green button center aligned" type="submit">Adicionar Árvore</button>
->>>>>>> 72d48861f6ebbeeaba82020daec23c2e6a972113:cadastroArvore.php
     </div>
 </div>
 
