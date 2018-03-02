@@ -68,7 +68,7 @@
         <div class="field">
             <div class="alinhamento ui checkbox">
                 <input type="checkbox" name="example">
-                <label>Li e concordo com os termos e condições</label>
+                <label>Li e aceito com os termos e condições</label>
             </div>
         </div>
         
