@@ -25,10 +25,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/acerola.jpg">
                 <a href="detalhaArvore.php">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #1</div>
+                        <div class="textCatalogo">M. emarginata</div>
                     </div>
                 </a>
             </div>
@@ -36,10 +36,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/lichia.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #2</div>
+                        <div class="textCatalogo">L. chinensis</div>
                     </div>
                 </a>
             </div>
@@ -47,10 +47,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/jabuticaba.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #3</div>
+                        <div class="textCatalogo">P. cauliflora</div>
                     </div>
                 </a>
             </div>
@@ -62,10 +62,10 @@
 
          <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/macieira.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #4</div>
+                        <div class="textCatalogo">M. domestica</div>
                     </div>
                 </a>
             </div>
@@ -73,10 +73,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/pitanga.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #5</div>
+                        <div class="textCatalogo">E. uniflora</div>
                     </div>
                 </a>
             </div>
@@ -84,10 +84,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/pauformiga.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #6</div>
+                        <div class="textCatalogo">T. americana</div>
                     </div>
                 </a>
             </div>
@@ -99,10 +99,10 @@
        
         <div class="column">
                 <div class="ui piled segment containerCatalogo">
-                    <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                    <img class="ui image imageCatalogo" src="imagens/catalogo/acacia.jpg">
                     <a href="">
                         <div class="middleCatalogo">
-                            <div class="textCatalogo">Árvore #7</div>
+                            <div class="textCatalogo">Vachellia</div>
                         </div>
                     </a>
                 </div>
@@ -110,10 +110,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/sibipiruna.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #8</div>
+                        <div class="textCatalogo">C. pluviosa</div>
                     </div>
                 </a>
             </div>
@@ -121,10 +121,10 @@
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
-                <img class="ui image imageCatalogo" src="imagens/catalogo/conifera.jpg">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/ipe.jpg">
                 <a href="">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">Árvore #9</div>
+                        <div class="textCatalogo">H. albus</div>
                     </div>
                 </a>
             </div>
