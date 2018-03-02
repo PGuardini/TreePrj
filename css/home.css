@@ -39,6 +39,7 @@ div#slider figure {
 }
 .clear{
     clear: both !important;
+    color: #F1F1F1;
 }
 .colorOne{
     background:  #99c9cc !important;

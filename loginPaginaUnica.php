@@ -25,7 +25,7 @@
     <h2 class="ui teal image header">
 
       <div id="letraLoginU" class=" content">
-        login
+        <i class="sign in alternate icon"></i>login
       </div>
     </h2>
     <form class="ui large form">
@@ -51,7 +51,7 @@
     </form>
 
     <div class="ui message">
-      Novo por aqui? <a class="linkPadrao" href="#">Cadastre-se</a>
+      Novo por aqui? <a class="linkPadrao" href="cadastroUsuarioPU.php">Cadastre-se</a>
     </div>
   </div>
 </div>

@@ -11,6 +11,9 @@ body > .grid {
 #botaoLoginU{
     background: #75604d !important;
 }
+#botaoLoginU:hover{
+    background: #755a41 !important;
+}
 #letraLoginU{
     color: #75604d !important;
 }
@@ -35,6 +38,12 @@ a:hover{
 }
 #corBotao{
     color: #fff;
+}
+.alinhamento{
+    float: left;
+    margin-left: 1% !important;
+    margin: 1% !important;
+    margin-bottom: 3% !important;
 }
 /* a.linkum:link {
     color: #fff !important;
