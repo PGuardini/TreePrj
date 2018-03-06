@@ -13,9 +13,6 @@
   <!-- Site Properties -->
   <title>CulTrees- Cadastro Usuário</title>
 
-
-
-
 </head>
 <body id="fundoLoginU">
 
