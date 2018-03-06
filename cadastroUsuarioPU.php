@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="css/loginPaginaUnica.css" >
   <link rel="shortcut icon" type="image/png" href="imagens/favicon.png"/>
   <!-- Site Properties -->
-  <title>Cadastro</title>
+  <title>CulTrees- Cadastro Usuário</title>
 
 
 
