@@ -21,8 +21,7 @@ body > .grid {
     background-image: linear-gradient(to right, #99c9cc, #c8d45b);
 
 }
-#botaoVoltar{
-    width: 8%;
+#botaoVoltar{   
     background: #75604d;
     color: #fff;
     margin-top: 1%;
@@ -45,9 +44,3 @@ a:hover{
     margin: 1% !important;
     margin-bottom: 3% !important;
 }
-/* a.linkum:link {
-    color: #fff !important;
-}
-a:hover {
-    color: #f2f4f2;
-} */
