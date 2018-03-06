@@ -31,6 +31,9 @@
                         <div class="textCatalogo">M. emarginata</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Aceroleira 
+                </h4>
             </div>
         </div>
 
@@ -42,17 +45,23 @@
                         <div class="textCatalogo">L. chinensis</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Pé de Lichia 
+                </h4>
             </div>
         </div>
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/jabuticaba.jpg">
-                <a href="">
+                <a href="detalhaJabuticabeira.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">P. cauliflora</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Jabuticabeira 
+                </h4>
             </div>
         </div>
 
@@ -68,6 +77,9 @@
                         <div class="textCatalogo">M. domestica</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Macieira 
+                </h4>
             </div>
         </div>
 
@@ -79,17 +91,23 @@
                         <div class="textCatalogo">E. uniflora</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Pitangueira
+                </h4>
             </div>
         </div>
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/pauformiga.jpg">
-                <a href="">
+                <a href="detalhaPauformiga.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">T. americana</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Pau Formiga 
+                </h4>
             </div>
         </div>
 
@@ -98,14 +116,17 @@
     <div class="ui stackable centered four column grid">
        
         <div class="column">
-                <div class="ui piled segment containerCatalogo">
-                    <img class="ui image imageCatalogo" src="imagens/catalogo/acacia.jpg">
+            <div class="ui piled segment containerCatalogo">
+                <img class="ui image imageCatalogo" src="imagens/catalogo/acacia.jpg">
                     <a href="">
                         <div class="middleCatalogo">
                             <div class="textCatalogo">Vachellia</div>
                         </div>
                     </a>
-                </div>
+                    <h4 class="ui horizontal divider header">
+                        Acácia
+                    </h4>
+            </div>
         </div>
 
         <div class="column">
@@ -116,17 +137,23 @@
                         <div class="textCatalogo">C. pluviosa</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Sibipiruna
+                </h4>
             </div>
         </div>
 
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/ipe.jpg">
-                <a href="">
+                <a href="detalhaIpe.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">H. albus</div>
                     </div>
                 </a>
+                <h4 class="ui horizontal divider header">
+                    Ipê
+                </h4>
             </div>
         </div>
 

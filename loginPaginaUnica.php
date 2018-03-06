@@ -25,7 +25,7 @@
     <h2 class="ui teal image header">
 
       <div id="letraLoginU" class=" content">
-        <i class="sign in alternate icon"></i>login
+        <i class="sign in alternate icon"></i>CulTrees
       </div>
     </h2>
     <form class="ui large form">
