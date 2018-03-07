@@ -26,9 +26,9 @@
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/acerola.jpg">
-                <a href="detalhaArvore.php">
+                <a href="detalhaAceroleira.php">
                     <div class="middleCatalogo">
-                        <div class="textCatalogo">M. emarginata</div>
+                        <div class="textCatalogo">M. glabra</div>
                     </div>
                 </a>
                 <h4 class="ui horizontal divider header">
@@ -72,7 +72,7 @@
          <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/macieira.jpg">
-                <a href="">
+                <a href="detalhaMacieira.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">M. domestica</div>
                     </div>
@@ -118,7 +118,7 @@
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/acacia.jpg">
-                    <a href="">
+                    <a href="detalhaAcacia.php">
                         <div class="middleCatalogo">
                             <div class="textCatalogo">Vachellia</div>
                         </div>
