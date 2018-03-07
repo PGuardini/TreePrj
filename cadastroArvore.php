@@ -12,15 +12,12 @@
   <!-- Site Properties -->
   <title>CulTrees- Cadastro Árvore</title>
 
-
-
-
 </head>
 <body id="fundoLoginU">
 
-    <button id="botaoVoltar" class="linkum ui button">
+    <a href="index.php"><button id="botaoVoltar" class="linkum ui button">
         <a id="corBotao" href="index.php"><i class="arrow left icon"></i>Voltar</a>
-    </button>
+    </button></a>
 
 <div id="opacidade" class="ui middle aligned center aligned grid">
   <div class="column">
@@ -35,38 +32,51 @@
       <div class="ui stacked segment">
         <div class="field">
           <div class="ui left icon input">
-            <i class="leaf icon"></i>
-            <input type="text" name="email" placeholder="Nome Popular">
+            <i class="globe icon"></i>
+            <input type="text" placeholder="Nome Popular">
           </div>
         </div>
         <div class="field">
           <div class="ui left icon input">
-            <i class="tree icon"></i>
-            <input type="name" name="nameC" placeholder="Nome Científico">
+            <i class="book icon"></i>
+            <input type="name" placeholder="Nome Científico">
           </div>
         </div>
         <div class="field">
           <div class="ui left icon input">
-            <i class="sort numeric down icon"></i>
-            <input type="number" name="idade" min="0" max="9500" placeholder="Idade">
+            <i class="map signs icon"></i>
+            <input type="name" placeholder="Bioma">
           </div>
         </div>
         <div class="field">
           <div class="ui left icon input">
-            <i class="circle notch icon"></i>
-            <input type="number" name="circu" min="0" max="60" placeholder="Circunferência">
+            <i class="map marker alternate icon"></i>
+            <input type="name" placeholder="Ocorrências">
           </div>
         </div>
-        <div class="field">
-          <div class="ui left icon input">
-            <i class="joomla icon"></i>
-            <input type="number" name="circu" min="0" max="60" placeholder="Espécie">
+      
+        <div class="ui form">
+          <div class="inline fields">
+            <label for="fruit">A árvore é frutífera?</label>
+            <div class="field">
+              <div class="ui radio checkbox">
+                <input type="radio" name="fruit" checked="" tabindex="0" class="hidden">
+                <label>Sim</label>
+              </div>
+            </div>
+            <div class="field">
+              <div class="ui radio checkbox">
+                <input type="radio" name="fruit" tabindex="0" class="hidden">
+                <label>Não</label>
+              </div>
+            </div>
           </div>
         </div>
+
         <div class="field">
           <div class="ui left icon input">
-            <i class="crosshairs icon"></i>
-            <input type="number" name="circu" min="0" max="60" placeholder="Bioma">
+            <i class="heartbeat icon"></i>
+            <input placeholder="Se sim, descreva as propriedades dos frutos">
           </div>
         </div>
 
