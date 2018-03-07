@@ -5,7 +5,7 @@
     <div class="espacadorTitulo"></div>
 
     <h2 class="ui horizontal divider header tituloPag">
-        Pau Formiga
+        Acácia 
     </h2>
 
     <div class="espacadorTitulo"></div>
@@ -23,14 +23,14 @@
                 <h4 class="ui header">
                 <i class="book icon"></i>
                 <div class="content">
-                    Nome Científico: <em>Triplaris americana</em>
+                    Nome Científico: <em>Acacia parviceps(espécie mais conhecida)</em>
                 </div>
                 </h4>
 
                 <h4 class="ui header">
                 <i class="globe icon"></i>
                 <div class="content">
-                    Nome Popular: Pau-formiga
+                    Nome Popular: Acácia
                 </div>
                 </h4>
 
@@ -44,7 +44,7 @@
                 <h4 class="ui header">
                 <i class="map marker alternate icon"></i>
                 <div class="ui left aligned content">
-                    Ocorrência:  região amazônica e Centro-Oeste do Brasil.
+                    Ocorrência:  Mata atlântica, Amazônia(como lianas). Cerrado e Caatinga(como arbustos/árvores).
                 </div>
                 </h4>
 
@@ -62,7 +62,7 @@
 
          <div class="five wide column">
             <div class="ui piled segment imagemDetalha">
-                <img class="ui huge image imagemDetalha" src="imagens/catalogo/pauformiga.jpg"/>  
+                <img class="ui huge image imagemDetalha" src="imagens/catalogo/acacia.jpg"/>  
             </div>
 
         </div>
@@ -81,29 +81,24 @@
             <div class="ui styled fluid accordion">
                 <div class="title active">
                     <i class="dropdown icon"></i>
-                    Quais as diferenças de cores?
+                    Gostos da acácia:
                 </div>
                 <div class="content active">
-                    <p class="transition visible textoJustificado" style="display: block !important;">Por ser dioica, possui plantas femininas e masculinas que se diferenciam nas cores da flor. A feminina, de rosa intenso, é vistosa em relação à masculina, mais apagada. Elas podem ser vistas de agosto a outubro.</p>
-                    <p class="transition visible textoJustificado" style="display: block !important;">Também conhecida por pau-de-novato, novateiro-de-mato-grosso ou formigueiro, esta árvore é empregada também no paisagismo, tendo em vista a beleza de suas flores. Apresenta preferência por solos muito úmidos ou alagados. De crescimento rápido, aos dois anos já atinge três metros de altura.</p>
+                    <p class="transition visible textoJustificado" style="display: block !important;">A acácia gosta de sol na medida certa, requer pouca água e prefere terra rica em matéria orgânica. Se você optar por composto vegetal e húmus de minhoca em partes iguais, é a mistura ideal para o plantio dela.</p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
-                    Quais as cidades que utilizam esta árvore para urbanismo?
+                    Acácia tem propriedades medicinais
                 </div>
                 <div class="content">
-                    <p class="transition hidden">.</p>
+                    <p class="transition hidden">A acácia-amarela é, para muitos, um excelente recurso na medicina natural. Entre as aplicações dela, estão as flores, com ação laxante, e as folhas, que agem no combate a problemas de pele; e seus frutos, para auxiliar em casos de picada de cobra e reumatismo.</p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
-                    As flores aparecem em qual época?
+                    Cuidado
                 </div>
                 <div class="content">
-                    <p class="transition hidden">.</p>
-                </div>
-                <div class="title">
-                    <i class="dropdown icon"></i>
-                    Onde Comprar
+                    <p class="transition hidden">é importante destacar que todas as partes da acácia devem ser utilizadas sob orientação médica, pois ela é considerada tóxica. É recomendado ainda mantê-la fora do alcance de crianças e animais domésticos.</p>
                 </div>
             </div>
         </div>
@@ -113,15 +108,15 @@
 			    <div class="ui comments">
 				  <div class="comment">
 				    <a class="avatar imagemUsuario">
-				      <img src="imagens/detalhaArvore/avatar3.jpg">
+				      <img src="imagens/catalogo/avatarUser.jpg">
 				    </a>
 				    <div class="content">
-				      <a class="author">Kylie</a>
+				      <a class="author">Z</a>
 				      <div class="metadata">
 				        <div class="date">Hoje</div>
 				      </div>
 				      <div class="text">
-				        Sempre que vejo esta árvore me encanto com a sua beleza.
+				        Madeira ótima para pranchas de surf!
 				      </div>
 				      <div class="actions">
 				        <a class="reply active">Responder</a>
