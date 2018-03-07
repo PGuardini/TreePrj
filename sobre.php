@@ -4,29 +4,30 @@
   <h1 class="ui header centered">Sobre CulTrees</h1>
 
     <div class="ui piled segment">
-        <p>CulTrees é uma empresavoltada ao ramo de classificação e estudo de árvores e plantas de todo o país.Foi fundada em 2018 por três jovens programadores.</p>
+        <p>CulTrees é uma empresa voltada ao ramo de classificação e estudo de árvores e plantas de todo o país.Foi fundada em 2018 por três jovens programadores.</p>
         <p>Hoje o CulTrees envolve mais de 100 colaboradores, sendo biólogos ou amantes da natureza.Nossa equipe trata de ter todas suas informações verídicas e aprovadas por biólogos renomados.</p>
-        <p>Eu quo homero blandit intellegebat. Incorrupte consequuntur mei id. Mei ut facer dolores adolescens, no illum aperiri quo, usu odio brute at. Qui te porro electram, ea dico facete utroque quo. Populo quodsi te eam, wisi everti eos ex, eum elitr altera utamur at. Quodsi convenire mnesarchum eu per, quas minimum postulant per id.</p>
+        <p>CulTrees começou como um projeto institucional e agora atinge mais de 60% do Brasil inteiro, tendo incentivo do governo para a melhoria e automatizção de classificação e estudo de árvores.</p>
+        <p>Temos como objetivo catalogar o maior número de árvores e divulgá-las para estudo mais aprofundado de suas propriedades.</p>
     </div>
     <div class="ui container">
         <div class="ui four cards">
             <a class="card open">
                 <div class="image">
-                    <img src="imagens/forest.jpg">
+                    <img src="imagens/catalogo/acacia.jpg">
                 </div>
             </a>
             <a class="card open">
                 <div class="image">
-                    <img src="imagens/forest.jpg">
+                    <img src="imagens/catalogo/acacia.jpg">
                 </div>
             </a>
             <a class="card open">
                 <div class="image">
-                    <img src="imagens/forest.jpg">
+                    <img src="imagens/catalogo/acacia.jpg">
                 </div>
             </a>
             <a class="card open">
-             <img src="imagens/forest.jpg" class="ui centered image massive">
+             <img src="imagens/catalogo/acacia.jpg" class="ui centered image massive">
             </a>
         </div>
     </div>
@@ -67,9 +68,9 @@
         </div>
 
     </div>
-    <div class="ui basic modal">
+    <div class="ui basic modal one">
         <div class="image content">
-                <img class="ui massive image imgSobre" src="imagens/forest.jpg">
+                <img class="ui massive image imgSobre" src="imagens/catalogo/acacia.jpg">
         </div>
     </div>
     <div class='clear'></div>
