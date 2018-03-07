@@ -24,7 +24,7 @@
     <h2 class="ui teal image header">
 
       <div id="letraLoginU" class=" content">
-      <i class="tree icon"></i>
+      <i class="leaf icon"></i>
         Cadastro Árvore
       </div>
     </h2>
