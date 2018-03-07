@@ -86,7 +86,7 @@
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/pitanga.jpg">
-                <a href="">
+                <a href="detalhaPitangueira.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">E. uniflora</div>
                     </div>

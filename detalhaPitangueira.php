@@ -5,7 +5,7 @@
     <div class="espacadorTitulo"></div>
 
     <h2 class="ui horizontal divider header tituloPag">
-        Macieira
+        Pitangueira
     </h2>
 
     <div class="espacadorTitulo"></div>
@@ -23,36 +23,35 @@
                 <h4 class="ui header">
                 <i class="book icon"></i>
                 <div class="content">
-                    Nome Científico: <em>Malus domestica.</em>
+                    Nome Científico: <em>Eugenia uniflora.</em>
                 </div>
                 </h4>
 
                 <h4 class="ui header">
                 <i class="globe icon"></i>
                 <div class="content">
-                    Nome Popular: Macieira.
+                    Nome Popular: Pitangueira.
                 </div>
                 </h4>
 
                 <h4 class="ui header">
                 <i class="map signs icon"></i>
                 <div class="ui left aligned content">
-                    Bioma: Locais com clima temperado, solo sílico-argiloso e profundo.
-
+                    Bioma: Mata Atlântica, planalto, restingas, subtropical.
                 </div>
                 </h4>
 
                 <h4 class="ui header">
                 <i class="map marker alternate icon"></i>
                 <div class="ui left aligned content">
-                    Ocorrência:  Santa Catarina, Rio Grande do Sul, Paraná, e São Paulo. 
+                    Ocorrência: Na floresta semidecidual, da Paraíba ao Rio Grande do Sul.
                 </div>
                 </h4>
 
                 <h4 class="ui header">
                 <i class="lemon icon"></i>
                 <div class="ui left aligned content">
-                   Frutífera: Sim, e ela possui suas variações: Gala, Fuji, Red/Argentina e a maça verde. 
+                   Frutífera: Sim, Tem a forma de bolinhas globosas e carnosas, de cor vermelha (a mais comum), laranja, amarela ou preta. Na mesma árvore, o fruto poderá ter desde as cores verde, amarelo e alaranjado até a cor vermelho-intenso, de acordo com o grau de maturação. 
                 </div>
                 </h4>
 
@@ -63,7 +62,7 @@
 
          <div class="five wide column">
             <div class="ui piled segment imagemDetalha">
-                <img class="ui huge image imagemDetalha" src="imagens/catalogo/macieira.jpg"/>  
+                <img class="ui huge image imagemDetalha" src="imagens/catalogo/pitanga.jpg"/>  
             </div>
 
         </div>
@@ -82,24 +81,17 @@
             <div class="ui styled fluid accordion">
                 <div class="title active">
                     <i class="dropdown icon"></i>
-                    Quais as características desta árvore?
+                    Características
                 </div>
                 <div class="content active">
-                    <p class="transition visible textoJustificado" style="display: block !important;">Esta árvore chega a medir dez metros de altura. A copa geralmente é arredondada, com flores brancas ou róseas, bem aromáticas. Já o caule é em tom pardo e liso. Os frutos (a conhecida maça) têm coloração básica entre o vermelho e o verde, podendo apresentar manchas esverdeadas ou amareladas.</p>
+                    <p class="transition visible textoJustificado" style="display: block !important;">É uma árvore medianamente rústica, de porte pequeno a médio, com 2 a 4 metros de altura, mas alcançando, em ótimas condições de clima e de solo, quando adulta, alturas acima de 6 metros.[3] e até, no máximo, 12m[2]. A copa globosa é dotada de folhagem perene.[2] As folhas pequenas e verde-escuras, quando amassadas, exalam um forte aroma característico.[3] As flores são brancas e pequenas, tendo utilidade melífera (apreciada por abelhas na fabricação do mel).</p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
-                    Macieiras gostam de frio
+                    Terapia da pitanga
                 </div>
                 <div class="content">
-                    <p class="transition hidden">Os pés de macieiras, ao contrário de outras árvores frutíferas, exigem a sua porção anual de frio, até porque é em função deste clima que ocorre uma boa floração.</p>
-                </div>
-                <div class="title">
-                    <i class="dropdown icon"></i>
-                    Uma benfeitora ao corpo
-                </div>
-                <div class="content">
-                    <p class="transition hidden">Em função de seu alto teor de potássio e fibras, é indicada para a prevenção de doenças cardíacas e de excesso de colesterol no sangue.</p>
+                    <p class="transition hidden">A tradição popular atribui algumas qualidades terapêuticas às infusões feitas com as folhas verdes da pitangueira ("chá" de pitanga ou "chá" de pitangueira)</p>
                 </div>
             </div>
         </div>
@@ -109,15 +101,15 @@
 			    <div class="ui comments">
 				  <div class="comment">
 				    <a class="avatar imagemUsuario">
-				      <img src="imagens/catalogo/tux.png">
+				      <img src="imagens/catalogo/rickSanches.png">
 				    </a>
 				    <div class="content">
-				      <a class="author">Tux</a>
+				      <a class="author">Rick Sanchez</a>
 				      <div class="metadata">
-				        <div class="date">Hoje</div>
+				        <div class="date">daqui 3 dias</div>
 				      </div>
 				      <div class="text">
-				        Frutos sempre suculentos no inverno.
+				        Muito fácil transportar essas frutas tão pequeninas.
 				      </div>
 				      <div class="actions">
 				        <a class="reply active">Responder</a>
