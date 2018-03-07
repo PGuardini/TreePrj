@@ -132,7 +132,7 @@
         <div class="column">
             <div class="ui piled segment containerCatalogo">
                 <img class="ui image imageCatalogo" src="imagens/catalogo/sibipiruna.jpg">
-                <a href="">
+                <a href="detalhaSibi.php">
                     <div class="middleCatalogo">
                         <div class="textCatalogo">C. pluviosa</div>
                     </div>

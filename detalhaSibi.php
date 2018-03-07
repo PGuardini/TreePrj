@@ -7,7 +7,7 @@
 <div class="espacadorTitulo"></div>
 
 <h2 class="ui horizontal divider header tituloPag">
-    Lichieira
+    Sibipiruna
 </h2>
 
 <div class="espacadorTitulo"></div>
@@ -25,14 +25,14 @@
             <h4 class="ui header">
             <i class="book icon"></i>
             <div class="content">
-                Nome Científico: <em>Litchi chinensis</em>
+                Nome Científico: <em>Caesalpinia pluviosa</em>
             </div>
             </h4>
 
             <h4 class="ui header">
             <i class="globe icon"></i>
             <div class="content">
-                Nome Popular: Lichieira
+                Nome Popular: Sibipiruna
             </div>
             </h4>
 
@@ -46,14 +46,14 @@
             <h4 class="ui header">
             <i class="map marker alternate icon"></i>
             <div class="ui left aligned content">
-                Ocorrência: É natural das regiões quentes da Ásia, sendo encontrada principalmente na República Popular da China, Índia, Madagáscar, Nepal, Bangladesh, Paquistão, sul e centro de Taiwan, a norte do Vietname, Indonésia, Tailândia, Filipinas, África do Sul e México.
+                Ocorrência: É natural do Brasil
             </div>
             </h4>
 
             <h4 class="ui header">
             <i class="lemon icon"></i>
             <div class="ui left aligned content">
-               Frutífera: Sim. O fruto da lichieira é uma drupa, com polpa translúcida (arilo), normalmente codiforme ou oval e disposto em cachos. A casca é vermelho-brilhante (quando maduro), delgada, coriácea e quebradiça.mA polpa é branca, rica em vitamina C, potássio, cálcio, fósforo e ferro. 
+               Frutífera: Não possui frutos, apenas flores
             </div>
             </h4>
 
@@ -64,7 +64,7 @@
 
      <div class="five wide column">
         <div class="ui piled segment imagemDetalha">
-            <img class="ui huge image imagemDetalha" src="imagens/catalogo/lichia.jpg"/>  
+            <img class="ui huge image imagemDetalha" src="imagens/catalogo/sibipiruna.jpg"/>  
         </div>
 
     </div>
@@ -83,15 +83,14 @@
         <div class="ui styled fluid accordion">
             <div class="title active">
                 <i class="dropdown icon"></i>
-                Quais são os fins medicinais da Jabuticaba?
+                Quais são os fins medicinais da Sibipirumna?
             </div>
             <div class="content active">
-                <p class="transition visible textoJustificado" style="display: block !important;">A jabuticaba é utilizada para vários fins, tanto culinários como medicinais. Entre estes, o chá obtido com a casca do fruto é usado como tratamento para diarreias e disenterias, bem como para tratamento de inflamações crônicas nas amídalas, em que se deve fazer gargarejos com esse chá.</p>
-                <p class="transition visible textoJustificado" style="display: block !important;">Entre outras propriedades fitoterápicas, destacam-se antiasmática, hemoptise, inflamações dos intestinos. êm uma potente ação antioxidante, ou seja, ajudam a eliminar do organismo moléculas instáveis de radicais livres. Esse efeito, observado em tubos de ensaio, dá uma pista para se compreender porque a incidência de tumores e problemas cardíacos é menor entre consumidores de alimentos ricos no pigmento.</p>
+                <p class="transition visible textoJustificado" style="display: block !important;">A casca do tronco e dos galhos são ricas em taninos, substância que possui propriedades adstringentes, antissépticas e antioxidantes. Outros estudos relatam propriedades medicinais como: atividades antimalárica, antimicrobiana e anti-inflamatória.</p>
             </div>
             <div class="title">
                 <i class="dropdown icon"></i>
-                Quais são os produtos feitos a partir dos frutos da Jabuticaba?
+                Em qual época ela florece?
             </div>
             <div class="content">
                 <p class="transition hidden">.</p>
