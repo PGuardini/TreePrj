@@ -52,7 +52,7 @@
                 <h4 class="ui header">
                 <i class="lemon icon"></i>
                 <div class="ui left aligned content">
-                   Frutífera: Sim. 
+                   Frutífera: Sim, e ela possui suas variações: Gala, Fuji, Red/Argentina e a maça verde. 
                 </div>
                 </h4>
 
@@ -82,31 +82,24 @@
             <div class="ui styled fluid accordion">
                 <div class="title active">
                     <i class="dropdown icon"></i>
-                    Quais as diferenças de cores?
+                    Quais as características desta árvore?
                 </div>
                 <div class="content active">
-                    <p class="transition visible textoJustificado" style="display: block !important;">Flores brancas ou róseas, bem aromáticas. Já o caule é em tom pardo</p>
+                    <p class="transition visible textoJustificado" style="display: block !important;">Esta árvore chega a medir dez metros de altura. A copa geralmente é arredondada, com flores brancas ou róseas, bem aromáticas. Já o caule é em tom pardo e liso. Os frutos (a conhecida maça) têm coloração básica entre o vermelho e o verde, podendo apresentar manchas esverdeadas ou amareladas.</p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
-                    Quais as cidades que utilizam esta árvore para urbanismo?
+                    Quais os benefícios de ter uma macieira por perto?
                 </div>
                 <div class="content">
-                    <p class="transition hidden">Sem maiores informações.</p>
+                    <p class="transition hidden">.</p>
                 </div>
                 <div class="title">
                     <i class="dropdown icon"></i>
-                    As flores aparecem em qual época?
+                    Quais os tipos de frutos que ela produz?
                 </div>
                 <div class="content">
-                    <p class="transition hidden">São encontradas flores em Novembro, mas as frutas são colhidas entre fevereiro e maio </p>
-                </div>
-                <div class="title">
-                    <i class="dropdown icon"></i>
-                    Onde Comprar
-                </div>
-                <div class="content">
-                    <p class="transition hidden">Na frutaria mais próxima.</p>
+                    <p class="transition hidden">.</p>
                 </div>
             </div>
         </div>
@@ -116,15 +109,15 @@
 			    <div class="ui comments">
 				  <div class="comment">
 				    <a class="avatar imagemUsuario">
-				      <img src="imagens/detalhaArvore/avatar3.jpg">
+				      <img src="imagens/catalogo/tux.png">
 				    </a>
 				    <div class="content">
-				      <a class="author">Kylie</a>
+				      <a class="author">Tux</a>
 				      <div class="metadata">
 				        <div class="date">Hoje</div>
 				      </div>
 				      <div class="text">
-				        Sempre que vejo esta árvore me encanto com a sua beleza.
+				        Frutos sempre suculentos no inverno.
 				      </div>
 				      <div class="actions">
 				        <a class="reply active">Responder</a>
