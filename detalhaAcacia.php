@@ -23,7 +23,7 @@
                 <h4 class="ui header">
                 <i class="book icon"></i>
                 <div class="content">
-                    Nome Científico: <em>Acacia parviceps(espécie mais conhecida)</em>
+                    Nome Científico: <em>Acacia parviceps (espécie mais conhecida)</em>
                 </div>
                 </h4>
 

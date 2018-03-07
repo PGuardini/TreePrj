@@ -115,10 +115,10 @@
                 <div class="content">
                   <a class="author">Keyla</a>
                   <div class="metadata">
-                    <div class="date">10 dias atrás</div>
+                    <div class="date">3 dias atrás</div>
                   </div>
                   <div class="text">
-                    É a minha fruta favorita! 
+                    Amarelo é a minha cor favorita! Adoro esta árvore por isso.
                   </div>
                   <div class="actions">
                     <a class="reply active">Responder</a>
