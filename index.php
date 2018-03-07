@@ -6,11 +6,11 @@
 
     <div id="slider">
         <figure>
-            <img src="imagens/slide2.jpg" class='img' alt>
-            <img src="imagens/jungle.jpg" class='img' alt>
-            <img src="imagens/nature.jpg" class='img' alt>
-            <img src="imagens/valley.jpg" class='img' alt>
-            <img src="imagens/forest.jpg" class='img' alt>
+            <img src="imagens/slide/slide1.png" class='img' alt>
+            <img src="imagens/slide/slide2.png" class='img' alt>
+            <img src="imagens/slide/slide3.png" class='img' alt>
+            <img src="imagens/slide/slide4.png" class='img' alt>
+            <img src="imagens/slide/slide5.png" class='img' alt>
         </figure>
     </div>
 
